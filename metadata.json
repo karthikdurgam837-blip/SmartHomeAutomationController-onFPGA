@@ -1,0 +1,6 @@
+{
+  "name": "FPGA Smart Home Controller",
+  "description": "An interactive digital design playground simulating a parameterizable FPGA Smart Home Controller (Verilog RTL, testbench, live waveform viewer, virtual board, and VLSI interview preparation).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
